@@ -10819,9 +10819,9 @@ readers do not read off random characters that represent icons */
   font-style: normal;
   font-weight: 400;
   font-display: block;
-  src: url("https://dl.dropboxusercontent.com/s/gmiyr8e6tnj6t9q/fa-brands-400.woff2") format("woff2"), 
-  url("https://dl.dropboxusercontent.com/s/7kj34lkhr3t65eu/fa-brands-400.woff") format("woff"), 
-  url("https://dl.dropboxusercontent.com/s/no7mux6814apiu0/fa-brands-400.ttf") format("truetype"); }
+  src: url("https://cdn.jsdelivr.net/gh/watanaproma/fa/fa-brands-400.woff2") format("woff2"), 
+  url("https://cdn.jsdelivr.net/gh/watanaproma/fa/fa-brands-400.woff") format("woff"), 
+  url("https://cdn.jsdelivr.net/gh/watanaproma/fa/fa-brands-400.ttf") format("truetype"); }
 
 .fab,
 .fa-brands {
@@ -12218,9 +12218,9 @@ readers do not read off random characters that represent icons */
   font-style: normal;
   font-weight: 900;
   font-display: block;
-  src: url("https://dl.dropboxusercontent.com/s/77jtsad459p2nko/fa-duotone-900.woff2") format("woff2"), 
-  url("https://dl.dropboxusercontent.com/s/i9qncqjw4ar5zgb/fa-duotone-900.woff") format("woff"), 
-  url("https://dl.dropboxusercontent.com/s/mneksdwpdynzt7b/fa-duotone-900.ttf") format("truetype"); }
+  src: url("https://cdn.jsdelivr.net/gh/watanaproma/fa/fa-duotone-900.woff2") format("woff2"), 
+  url("https://cdn.jsdelivr.net/gh/watanaproma/fa/fa-duotone-900.woff") format("woff"), 
+  url("https://cdn.jsdelivr.net/gh/watanaproma/fa/fa-duotone-900.ttf") format("truetype"); }
 
 .fad,
 .fa-duotone {
@@ -22642,9 +22642,9 @@ readers do not read off random characters that represent icons */
   font-style: normal;
   font-weight: 300;
   font-display: block;
-  src: url("https://dl.dropboxusercontent.com/s/0x61vzh44ish8r8/fa-light-300.woff2") format("woff2"), 
-  url("https://dl.dropboxusercontent.com/s/4m3kezm24amzo24/fa-light-300.woff") format("woff"), 
-  url("https://dl.dropboxusercontent.com/s/pq4j6rwy5bun1r1/fa-light-300.ttf") format("truetype"); }
+  src: url("https://cdn.jsdelivr.net/gh/watanaproma/fa/fa-light-300.woff2") format("woff2"), 
+  url("https://cdn.jsdelivr.net/gh/watanaproma/fa/fa-light-300.woff") format("woff"), 
+  url("https://cdn.jsdelivr.net/gh/watanaproma/fa/fa-light-300.ttf") format("truetype"); }
 
 .fal,
 .fa-light {
@@ -22655,9 +22655,9 @@ readers do not read off random characters that represent icons */
   font-style: normal;
   font-weight: 400;
   font-display: block;
-  src: url("https://dl.dropboxusercontent.com/s/uhs3tzn1kfhipya/fa-regular-400.woff2") format("woff2"), 
-  url("https://dl.dropboxusercontent.com/s/96e6cd95m99txiu/fa-regular-400.woff") format("woff"), 
-  url("https://dl.dropboxusercontent.com/s/gk864rw4f1ozmun/fa-regular-400.ttf") format("truetype"); }
+  src: url("https://cdn.jsdelivr.net/gh/watanaproma/fa/fa-regular-400.woff2") format("woff2"), 
+  url("https://cdn.jsdelivr.net/gh/watanaproma/fa/fa-regular-400.woff") format("woff"), 
+  url("https://cdn.jsdelivr.net/gh/watanaproma/fa/fa-regular-400.ttf") format("truetype"); }
 
 .far,
 .fa-regular {
@@ -22668,9 +22668,9 @@ readers do not read off random characters that represent icons */
   font-style: normal;
   font-weight: 900;
   font-display: block;
-  src: url("https://dl.dropboxusercontent.com/s/gtuuaj5l5cgpsy3/fa-solid-900.woff2") format("woff2"), 
-  url("https://dl.dropboxusercontent.com/s/u3uw0jth8thleb4/fa-solid-900.woff") format("woff"), 
-  url("https://dl.dropboxusercontent.com/s/s0p2m1p72v4tex0/fa-solid-900.ttf") format("truetype"); }
+  src: url("https://cdn.jsdelivr.net/gh/watanaproma/fa/fa-solid-900.woff2") format("woff2"), 
+  url("https://cdn.jsdelivr.net/gh/watanaproma/fa/fa-solid-900.woff") format("woff"), 
+  url("https://cdn.jsdelivr.net/gh/watanaproma/fa/fa-solid-900.ttf") format("truetype"); }
 
 .fas,
 .fa-solid {
@@ -22681,9 +22681,9 @@ readers do not read off random characters that represent icons */
   font-style: normal;
   font-weight: 100;
   font-display: block;
-  src: url("https://dl.dropboxusercontent.com/s/gnrbokm5woeb90u/fa-thin-100.woff2") format("woff2"), 
-  url("https://dl.dropboxusercontent.com/s/1aehcjt4e4a6nde/fa-thin-100.woff") format("woff"), 
-  url("https://dl.dropboxusercontent.com/s/ugirnivvlqllqpq/fa-thin-100.ttf") format("truetype"); }
+  src: url("https://cdn.jsdelivr.net/gh/watanaproma/fa/fa-thin-100.woff2") format("woff2"), 
+  url("https://cdn.jsdelivr.net/gh/watanaproma/fa/fa-thin-100.woff") format("woff"), 
+  url("https://cdn.jsdelivr.net/gh/watanaproma/fa/fa-thin-100.ttf") format("truetype"); }
 
 .fat,
 .fa-thin {
